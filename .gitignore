@@ -1,0 +1,4 @@
+vendor/
+.env
+.env2
+textStory.txt
